@@ -1,0 +1,11 @@
+O:8:"stdClass":13:{s:4:"rpId";s:9:"localhost";s:17:"attestationFormat";s:6:"packed";s:12:"credentialId";s:32:"3Ä-ƒ¥RïØüe:P
+Zg2X¡/0+.óåAªýa";s:19:"credentialPublicKey";s:451:"-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApIuZvgepewhK3ws8HgbX
+sIdNGzPds7bIgez3lVUngH6nP159lMYhy6USDahk/czcXfZDh310ENjsFIm08KTU
+n/W5otDwJi4xfejZvgutJnNKmBIGVFT+AqkAFpEP84b+hHCktUd1W05CwFGM8Ncn
+s61ilOKTNfH/UxjsqQ32OHbUYDTh42SQpgGlYrvI/Tc5ulUaQa/K+5dri2IVQ+yw
+Y/YYd0CBG+i3kp6ftoXx3vVh6NfftJiguXGfT8ae4sPTze4UFkEBWmFx+pILMy+A
+psrkHj6VdgxhLYtwaimN9M4X3ORKUbprjSW/kbqMcxEsWyyUgzjUZHz7vmPOn1b3
+3QIDAQAB
+-----END PUBLIC KEY-----
+";s:16:"certificateChain";N;s:11:"certificate";N;s:17:"certificateIssuer";s:0:"";s:18:"certificateSubject";s:0:"";s:16:"signatureCounter";N;s:6:"AAGUID";s:16:"`(°±ÔL´³¯Í¯Ék²";s:9:"rootValid";N;s:11:"userPresent";b:1;s:12:"userVerified";b:1;}

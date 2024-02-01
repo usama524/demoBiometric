@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHP WebAuthn Demo</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="demo.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="form-container" id="loginForm">
+            <h2>Login</h2>
+            <input type="text" placeholder="Username" name="username" required>
+            <input type="password" placeholder="Password" name="password" required>
+            <button onclick="validate.a()">Login</button>
+            <p>Not registered? <span onclick="toggleForms()">Register here</span></p>
+        </div>
+ 
+        <div class="form-container" id="registerForm" style="display: none;">
+            <h2>Register</h2>
+            <input type="text" placeholder="Username" name="username" required>
+            <input type="password" placeholder="Password" name="password" required>
+            <button onclick="register.a()">Register</button>
+            <p>Already registered? <span onclick="toggleForms()">Login here</span></p>
+        </div>
+    </div>
+</body>
+</html>

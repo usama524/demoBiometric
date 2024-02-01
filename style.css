@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+ 
+.container {
+    max-width: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+ 
+.form-container {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+ 
+.form-container h2 {
+    margin: 0 0 15px;
+    text-align: center;
+}
+ 
+form {
+    display: flex;
+    flex-direction: column;
+}
+ 
+input[type="text"],
+input[type="password"] {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+ 
+button {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+ 
+button:hover {
+    background-color: #0056b3;
+}
+/* [Previous CSS styles] */
+ 
+p {
+    text-align: center;
+}
+ 
+span {
+    color: blue;
+    cursor: pointer;
+}
+ 
+span:hover {
+    text-decoration: underline;
+}
